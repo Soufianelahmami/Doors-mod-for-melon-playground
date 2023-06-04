@@ -39,37 +39,37 @@
 },
 
   "my_data":[
-    {"title":"title1 ser",
-      "desc":"description1 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 1",
+      "desc":"Doors mod for melon playground 1",
+      "photo":"https://iili.io/H4KPZ5F.jpg"},
 
-    {"title":"title2 ser",
-      "desc":"description2 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 2",
+      "desc":"Doors mod for melon playground 2",
+      "photo":"https://iili.io/H4KPgxj.jpg"},
 
-    {"title":"title3 ser",
-      "desc":"description3 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 3",
+      "desc":"Doors mod for melon playground 3",
+      "photo":"https://iili.io/H4KPrWx.jpg"},
 
-    {"title":"title4 ser",
-      "desc":"description4 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 4",
+      "desc":"Doors mod for melon playground 4",
+      "photo":"https://iili.io/H4KPi0B.jpg"},
 
-    {"title":"title5 ser",
-      "desc":"description5 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 5",
+      "desc":"Doors mod for melon playground 5",
+      "photo":"https://iili.io/H4KPPfV.jpg"},
 
-    {"title":"title6 ser",
-      "desc":"description6 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 6",
+      "desc":"Doors mod for melon playground 6",
+      "photo":"https://iili.io/H4KP4iQ.jpg"},
 
-    {"title":"title7 ser",
-      "desc":"description7 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 7",
+      "desc":"Doors mod for melon playground 7",
+      "photo":"https://iili.io/H4K64at.webp"},
 
-    {"title":"title8 ser",
-      "desc":"description8 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+    {"title":"Mod pack 8",
+      "desc":"Doors mod for melon playground 8",
+      "photo":"https://iili.io/H4KPQJ1.jpg"}
   ]
 
 }
